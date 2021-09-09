@@ -1,0 +1,3 @@
+[submodule "vacuum"]
+	path = vacuum
+	url = https://github.com/zvldz/vacuum.git
